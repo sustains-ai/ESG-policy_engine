@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-xa4)x&6oi%#+pqhk&ssai*t@1wceggr4uym_p!k!r)r(r3ejcf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://esg-policy-engine.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://esg-policy-engine.onrender.com', 'localhost', '127.0.0.1','esg-policy-engine.onrender.com']
 
 
 # Application definition
